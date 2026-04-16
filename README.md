@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I teach CS in Chicago.
 
-⚡ Fun fact: I am working on my Keelboat Instructor's Certification for Sailing
+⚡ Fun fact: I teach sailing in the summer time at CYC  https://www.chicagoyachtclub.org/adult-sailing
 
 ⚡ Fun fact: I have done 18 Races to Mac  https://cycracetomackinac.com/
