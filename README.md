@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I teach CS in Chicago.
+I teach computer science in Chicago public schools
 
 ⚡ Fun fact: I teach sailing in the summer time at CYC  https://www.chicagoyachtclub.org/adult-sailing
 
