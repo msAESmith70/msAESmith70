@@ -27,5 +27,5 @@ and an Intermediate CS course that has multipe topics in CS (programming, AI and
 ⚡ Fun fact: I have done 18 [Races to Mackinac Island](https://cycracetomackinac.com/).  Yes, we sail the whole time.  NO, we cannot get off the boat until we are up there.  It is the largest annual offshore race in the world.  
 
 I would love to travel to Bora Bora one day. 
-![bora bora](bobra_bora.jpg)
+
 
