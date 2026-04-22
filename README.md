@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I teach computer science in Chicago public schools
+I teach computer science in Chicago public schools.
+
+I am currently teaching  [AP CSA](https://apcentral.collegeboard.org/courses/ap-computer-science-a)
 
 ⚡ Fun fact: I teach sailing in the summer time at CYC  https://www.chicagoyachtclub.org/adult-sailing
 
