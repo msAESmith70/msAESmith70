@@ -15,7 +15,7 @@ I was also a Fulbright Exchange Teacher in 2002-2003 before I moved to Chicago. 
 
  [AP CSA](https://apcentral.collegeboard.org/courses/ap-computer-science-a)
 
- [IB Computer Science SL]([https://ibo.org/globalassets/new-structure/programmes/dp/pdfs/computer-science---standard-level.pdf](https://ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/)
+ [IB Computer Science SL](https://ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/)
 
 and an Intermediate CS course that has multipe topics in CS (programming, AI and machine learning, 3D-printing, and programming micro:bits) using the [MYP Design Cycle](https://ibo.org/programmes/middle-years-programme/curriculum/design/)
 
